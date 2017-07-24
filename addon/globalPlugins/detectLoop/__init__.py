@@ -1,6 +1,6 @@
 #Window utility scripts for NVDA
 
-# For LoopDetector
+# For LoopDetector (https://github.com/hritikgupta/LoopDetector)
 # Created by Hritik Gupta
 
 # Select a line in your code and press NVDA+h
